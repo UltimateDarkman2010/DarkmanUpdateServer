@@ -1,2 +1,3 @@
 add Options.json
 add RealSilver.dll
+add mod.ini
