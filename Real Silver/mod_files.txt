@@ -1,1 +1,11 @@
+add blaze_support/disk/bb2/MsnBlaze.ar.00
+add blaze_support/disk/bb2/MsnBlaze.arl
+add blaze_support/disk/bb2/voices/English/MsnBlaze.ar.00
+add blaze_support/disk/bb2/voices/English/MsnBlaze.arl
+add blaze_support/disk/bb2/voices/Japanese/MsnBlaze.ar.00
+add blaze_support/disk/bb2/voices/Japanese/MsnBlaze.arl
+add character_physics/disk/bb3/#Sonic.ar.00
+add character_physics/disk/bb3/#Sonic.arl
+add cursed_physics/disk/bb3/#Sonic.ar.00
+add cursed_physics/disk/bb3/#Sonic.arl
 add mod.ini
